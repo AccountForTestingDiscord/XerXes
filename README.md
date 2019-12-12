@@ -16,4 +16,6 @@
 ### RUNNING
 ```
 # ./xerxes www.fakesite.com 80
+
+[![Run on Repl.it](https://repl.it/badge/github/CyberXCodder/XerXes)](https://repl.it/github/CyberXCodder/XerXes)
 ```

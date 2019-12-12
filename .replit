@@ -1,0 +1,2 @@
+language = "bash"
+run = "./xerxes www.bonk.io"
